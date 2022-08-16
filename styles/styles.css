@@ -4,7 +4,7 @@ body {
     flex-direction: column;
  }
 #top-header {
-    background-image: url(/images/lesson04-mock2-banner-image.jpg);                   
+    background-image: url(images/lesson04-mock2-banner-image.jpg);                   
     padding-top: 3rem;
     padding-left: min(11rem);
     padding-bottom: 4rem;
@@ -114,7 +114,7 @@ figcaption{
     width: 300px;
 }
 footer {
-background-image: url(/images/lesson04-mock4-footer-image.jpg);    height:300px;
+background-image: url(images/lesson04-mock4-footer-image.jpg);    height:300px;
     text-align:center;
     padding-top: 4rem;   
 }
